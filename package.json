@@ -1,0 +1,25 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "Electron Test Project",
+  "main": "index.js",
+  "scripts": {
+		"start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aznalo/ElectronTest.git"
+  },
+  "keywords": [
+    "electron",
+    "node",
+    "javascript"
+  ],
+  "author": "plata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aznalo/ElectronTest/issues"
+  },
+  "homepage": "https://github.com/aznalo/ElectronTest#readme"
+}
